@@ -1,1 +1,1 @@
-House Rate Prediction using Linear Regression
+## House Rate Prediction using Linear Regression
