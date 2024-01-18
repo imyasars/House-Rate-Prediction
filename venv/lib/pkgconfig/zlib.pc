@@ -1,0 +1,13 @@
+prefix=/Users/yasar/Documents/LinerRegression/House Pricing/venv
+exec_prefix=/Users/yasar/Documents/LinerRegression/House Pricing/venv
+libdir=/Users/yasar/Documents/LinerRegression/House Pricing/venv/lib
+sharedlibdir=/Users/yasar/Documents/LinerRegression/House Pricing/venv/lib
+includedir=/Users/yasar/Documents/LinerRegression/House Pricing/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
